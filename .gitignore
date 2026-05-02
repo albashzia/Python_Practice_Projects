@@ -1,0 +1,64 @@
+# =========================
+# Python bytecode / cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# PyCharm / IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Distribution / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs and databases
+# =========================
+*.log
+*.sqlite3
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Testing / coverage
+# =========================
+.coverage
+.coverage.*
+htmlcov/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Temporary files
+# =========================
+*.swp
+*.tmp
