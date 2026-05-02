@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245d5b30-b0e9-4c59-af67-bee5c2f5d8f7" name="Changes" comment="" />
+    <list default="true" id="245d5b30-b0e9-4c59-af67-bee5c2f5d8f7" name="Changes" comment="Adding a .gitignore file and updating it for all type of temporary files or unnecessary git traces">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "albashzia"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/albashzia/Python_Practice_Projects.git",
+    "accountId": "fe676da6-2836-4ea7-9ffc-84a3253eb69a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -17,8 +42,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.text_to_speech.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -36,6 +66,55 @@
       <option name="presentableId" value="Default" />
       <updated>1777706239391</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created a project and defined the basic files">
+      <option name="closed" value="true" />
+      <created>1777706339030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777706339030</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Importing pyttsx3 and initializing it in the text_to_speech.py file">
+      <option name="closed" value="true" />
+      <created>1777706581199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777706581199</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Assigning text using the initialized pyttsx3 object and running the program">
+      <option name="closed" value="true" />
+      <created>1777706635288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777706635288</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Taking input from the user instead of a static String text and passing it to the engine object to convert it into speech">
+      <option name="closed" value="true" />
+      <created>1777706724409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777706724409</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding a .gitignore file and updating it for all type of temporary files or unnecessary git traces">
+      <option name="closed" value="true" />
+      <created>1777706922555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777706922555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a project and defined the basic files" />
+    <MESSAGE value="Importing pyttsx3 and initializing it in the text_to_speech.py file" />
+    <MESSAGE value="Assigning text using the initialized pyttsx3 object and running the program" />
+    <MESSAGE value="Taking input from the user instead of a static String text and passing it to the engine object to convert it into speech" />
+    <MESSAGE value="Adding a .gitignore file and updating it for all type of temporary files or unnecessary git traces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a .gitignore file and updating it for all type of temporary files or unnecessary git traces" />
   </component>
 </project>
